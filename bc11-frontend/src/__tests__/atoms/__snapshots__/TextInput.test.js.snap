@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput should render correctly 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root WithStyles(ForwardRef(TextField))-root-3 makeStyles-margin-1"
+>
+  <div
+    className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiInputBase-input MuiOutlinedInput-input makeStyles-labelProps-2"
+      defaultValue={
+        Object {
+          "PLACEHOLDER": "Mail@gmail.com",
+        }
+      }
+      disabled={false}
+      id="custom-css-outlined-input"
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="Mail@gmail.com"
+      required={false}
+      type="text"
+    />
+    <fieldset
+      aria-hidden={true}
+      className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+      style={
+        Object {
+          "paddingLeft": 8,
+        }
+      }
+    >
+      <legend
+        className="PrivateNotchedOutline-legend-5"
+        style={
+          Object {
+            "width": 0.01,
+          }
+        }
+      >
+        <span
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "&#8203;",
+            }
+          }
+        />
+      </legend>
+    </fieldset>
+  </div>
+</div>
+`;

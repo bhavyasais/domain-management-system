@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Department Renders correctly 1`] = `
+<div
+  className="makeStyles-main-3"
+>
+  <div
+    className="makeStyles-dropDownContainer-1"
+    onClick={[Function]}
+  >
+    <div />
+    <div />
+  </div>
+  <div
+    className="makeStyles-items-13"
+  >
+    <div
+      className="makeStyles-iconFilter-11"
+    >
+      <img
+        alt="icon"
+        src="filter.png"
+      />
+      <p
+        className="MuiTypography-root makeStyles-textFilter-14 MuiTypography-body1"
+      >
+        Filter
+      </p>
+    </div>
+    <div
+      className="makeStyles-iconFilter-11"
+    >
+      <img
+        alt="icon"
+        src="list.png"
+      />
+      <p
+        className="MuiTypography-root makeStyles-textFilter-14 MuiTypography-body1"
+      >
+        List
+      </p>
+    </div>
+    <div
+      className="makeStyles-iconFilter-11"
+    >
+      <img
+        alt="icon"
+        src="sort.png"
+      />
+      <p
+        className="MuiTypography-root makeStyles-textFilter-14 MuiTypography-body1"
+      >
+        Sort
+      </p>
+    </div>
+    <div
+      className="makeStyles-iconFilter-11"
+    >
+      <img
+        alt="icon"
+        src="deleteRow.png"
+      />
+      <p
+        className="MuiTypography-root makeStyles-textFilter-14 MuiTypography-body1"
+      >
+        Delete Selected(
+        )
+      </p>
+    </div>
+  </div>
+  <div
+    className="makeStyles-searchIcon-16"
+  >
+    <img
+      alt="search"
+      src="search.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`Department opens the modal 1`] = `ReactWrapper {}`;

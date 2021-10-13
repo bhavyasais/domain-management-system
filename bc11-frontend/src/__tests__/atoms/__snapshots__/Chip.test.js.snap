@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Chip/> Renders correctly 1`] = `
+<div
+  className="MuiChip-root Chip-chip-1 MuiChip-sizeSmall"
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#eeeeee",
+      "color": "#1c1c21",
+    }
+  }
+>
+  <span
+    className="MuiChip-label MuiChip-labelSmall"
+  >
+    Test label
+  </span>
+</div>
+`;

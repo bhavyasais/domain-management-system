@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeleteButton should render correctly 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-1"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#f44336",
+        "maxWidth": undefined,
+      }
+    }
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label makeStyles-buttonLabel-2"
+    >
+      <span
+        className="MuiButton-startIcon MuiButton-iconSizeMedium"
+      >
+        <div>
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+          >
+            <img
+              height="20"
+              src="delete.png"
+              width="20"
+            />
+          </span>
+        </div>
+      </span>
+      <span
+        className="MuiTypography-root makeStyles-buttonLabel-2 MuiTypography-caption"
+      >
+        Delete selected(undefined)
+      </span>
+    </span>
+  </button>
+</div>
+`;

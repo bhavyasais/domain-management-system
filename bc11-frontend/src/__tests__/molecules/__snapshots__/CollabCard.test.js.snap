@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CollabCard/> Renders correctly 1`] = `ReactWrapper {}`;
+
+exports[`<CollabCard/> opens the modal 1`] = `ReactWrapper {}`;

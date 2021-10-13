@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar renders an image 1`] = `
+<div
+  className="MuiAvatar-root MuiAvatar-circle"
+>
+  <img
+    className="MuiAvatar-img"
+    src="https://cdn.zeplin.io/5fa102170abc4fbe7467eaa5/screens/438d5cb7-5113-4c26-9a9f-109b56acf94c.png"
+  />
+</div>
+`;
+
+exports[`Avatar should render correctly 1`] = `
+<div
+  className="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiAvatar-fallback"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+    />
+  </svg>
+</div>
+`;

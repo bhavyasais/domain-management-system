@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CommandCenter should render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`CommandCenter testing tabs 1`] = `ReactWrapper {}`;
+
+exports[`CommandCenter testing update domain 1`] = `ReactWrapper {}`;

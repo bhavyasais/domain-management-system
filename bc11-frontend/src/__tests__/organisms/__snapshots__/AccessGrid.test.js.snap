@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccessGrid should render correctly 1`] = `
+<div
+  style={
+    Object {
+      "flex": 1,
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <div
+    className="ag-theme-alpine"
+    style={
+      Object {
+        "height": "360px",
+        "width": "1091px",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+        }
+      }
+    />
+    <div
+      className="AccessGrid-addNewRow-1"
+    >
+      <div>
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-text"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "maxWidth": undefined,
+            }
+          }
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label AccessGrid-buttonLabelStyle-2 makeStyles-buttonLabel-3"
+          >
+            <span
+              className="MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                />
+              </svg>
+            </span>
+            <span
+              className="MuiTypography-root makeStyles-buttonLabel-3 MuiTypography-caption"
+            >
+              New row
+            </span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

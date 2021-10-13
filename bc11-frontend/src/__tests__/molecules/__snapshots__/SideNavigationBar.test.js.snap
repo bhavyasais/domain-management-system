@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SideNavigationBar/> Renders correctly 1`] = `
+<div
+  className="MuiGrid-root SideNavigationBar-root-1 MuiGrid-container MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <p
+      className="MuiTypography-root SideNavigationBar-header-5 MuiTypography-body1"
+    >
+      io
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root SideNavigationBar-imageContainer-3 MuiGrid-container MuiGrid-item"
+  >
+    <img
+      className="SideNavigationBar-image-2"
+      onClick={[Function]}
+      src="atoms_icon_pie.svg"
+    />
+  </div>
+  <div
+    className="MuiGrid-root SideNavigationBar-imageContainer-3 SideNavigationBar-activeIcon-4 MuiGrid-container MuiGrid-item"
+  >
+    <img
+      className="SideNavigationBar-image-2"
+      onClick={[Function]}
+      src="atoms_icon_graph.svg"
+    />
+  </div>
+  <div
+    className="MuiGrid-root SideNavigationBar-imageContainer-3 MuiGrid-container MuiGrid-item"
+  >
+    <img
+      className="SideNavigationBar-image-2"
+      onClick={[Function]}
+      src="mail.png"
+    />
+  </div>
+  <div
+    className="MuiGrid-root SideNavigationBar-imageContainer-3 MuiGrid-container MuiGrid-item"
+  >
+    <img
+      className="SideNavigationBar-image-2"
+      onClick={[Function]}
+      src="atoms_icon_excel.svg"
+    />
+  </div>
+</div>
+`;

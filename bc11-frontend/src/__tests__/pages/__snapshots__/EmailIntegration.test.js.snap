@@ -1,0 +1,350 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CollabModal should render correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiGrid-root SideNavigationBar-root-6 MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <p
+          className="MuiTypography-root SideNavigationBar-header-10 MuiTypography-body1"
+        >
+          io
+        </p>
+      </div>
+      <div
+        className="MuiGrid-root SideNavigationBar-imageContainer-8 MuiGrid-container MuiGrid-item"
+      >
+        <img
+          className="SideNavigationBar-image-7"
+          onClick={[Function]}
+          src="atoms_icon_pie.svg"
+        />
+      </div>
+      <div
+        className="MuiGrid-root SideNavigationBar-imageContainer-8 SideNavigationBar-activeIcon-9 MuiGrid-container MuiGrid-item"
+      >
+        <img
+          className="SideNavigationBar-image-7"
+          onClick={[Function]}
+          src="atoms_icon_graph.svg"
+        />
+      </div>
+      <div
+        className="MuiGrid-root SideNavigationBar-imageContainer-8 MuiGrid-container MuiGrid-item"
+      >
+        <img
+          className="SideNavigationBar-image-7"
+          onClick={[Function]}
+          src="mail.png"
+        />
+      </div>
+      <div
+        className="MuiGrid-root SideNavigationBar-imageContainer-8 MuiGrid-container MuiGrid-item"
+      >
+        <img
+          className="SideNavigationBar-image-7"
+          onClick={[Function]}
+          src="atoms_icon_excel.svg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+    style={
+      Object {
+        "width": "95.5%",
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root makeStyles-container-11 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <h3
+              className="MuiTypography-root makeStyles-color-12 MuiTypography-h3"
+            >
+              Centralized  Communication Command Center
+            </h3>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+            >
+              <div
+                className="MuiGrid-root makeStyles-marginRight-13 MuiGrid-item"
+              >
+                <div>
+                  <button
+                    className="MuiButtonBase-root MuiIconButton-root"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onDragLeave={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiIconButton-label"
+                    >
+                      <span
+                        className="MuiBadge-root"
+                        icon={<Memo(TextsmsOutlinedIcon) />}
+                      >
+                        <svg
+                          aria-hidden={true}
+                          className="MuiSvgIcon-root"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12zM7 9h2v2H7zm4 0h2v2h-2zm4 0h2v2h-2z"
+                          />
+                        </svg>
+                        <span
+                          className="MuiBadge-badge MuiBadge-anchorOriginTopRightRectangle MuiBadge-colorSecondary MuiBadge-dot"
+                        >
+                          
+                        </span>
+                      </span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item"
+              >
+                <div>
+                  <button
+                    className="MuiButtonBase-root MuiIconButton-root"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onDragLeave={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiIconButton-label"
+                    >
+                      <span
+                        className="MuiBadge-root"
+                        icon={<Memo(NotificationsOutlinedIcon) />}
+                      >
+                        <svg
+                          aria-hidden={true}
+                          className="MuiSvgIcon-root"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.64 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2zm-2 1H8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z"
+                          />
+                        </svg>
+                        <span
+                          className="MuiBadge-badge MuiBadge-anchorOriginTopRightCircle MuiBadge-colorSecondary MuiBadge-dot"
+                        >
+                          
+                        </span>
+                      </span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item"
+              >
+                <button
+                  aria-haspopup="true"
+                  className="MuiButtonBase-root MuiButton-root MuiButton-disableElevation"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiButton-label"
+                  >
+                    <div
+                      className="MuiAvatar-root MuiAvatar-circle makeStyles-avatarSize-14"
+                    >
+                      <img
+                        className="MuiAvatar-img"
+                        src="https://cdn.zeplin.io/5fa102170abc4fbe7467eaa5/screens/438d5cb7-5113-4c26-9a9f-109b56acf94c.png"
+                      />
+                    </div>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <img
+            height="252px"
+            src="email_banner.png"
+            width="452.7px"
+          />
+          <h6
+            className="MuiTypography-root makeStyles-integrate-2 MuiTypography-h6"
+          >
+            Integrate your Email Id
+          </h6>
+          <p
+            className="MuiTypography-root makeStyles-email-3 MuiTypography-body2"
+            style={
+              Object {
+                "color": undefined,
+                "fontSize": "14px",
+                "fontWeight": "300",
+                "height": "21px",
+                "lineHeight": "21px",
+                "width": "209px",
+              }
+            }
+          >
+            Enter your Email ID to get started
+          </p>
+          <div
+            className="MuiFormControl-root MuiTextField-root WithStyles(ForwardRef(TextField))-root-17 makeStyles-margin-15 makeStyles-textInput-4"
+          >
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoFocus={false}
+                className="MuiInputBase-input MuiOutlinedInput-input makeStyles-labelProps-16"
+                defaultValue=""
+                disabled={false}
+                id="custom-css-outlined-input"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Mail@gmail.com"
+                required={false}
+                type="text"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-18 MuiOutlinedInput-notchedOutline"
+                style={
+                  Object {
+                    "paddingLeft": 8,
+                  }
+                }
+              >
+                <legend
+                  className="PrivateNotchedOutline-legend-19"
+                  style={
+                    Object {
+                      "width": 0.01,
+                    }
+                  }
+                >
+                  <span
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "&#8203;",
+                      }
+                    }
+                  />
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+          <div>
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-5"
+              disabled={false}
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              style={
+                Object {
+                  "backgroundColor": undefined,
+                  "height": "44px",
+                  "width": "206px",
+                }
+              }
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiButton-label makeStyles-buttonLabel-22"
+              >
+                <span
+                  className="MuiTypography-root makeStyles-buttonLabel-22 MuiTypography-caption"
+                >
+                  Get Started
+                </span>
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,320 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DetailsCard/> Renders correctly 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-outlined MuiPaper-rounded"
+  style={
+    Object {
+      "borderColor": undefined,
+    }
+  }
+>
+  <div
+    className="MuiCardHeader-root makeStyles-threat-2"
+  >
+    <div
+      className="MuiCardHeader-content"
+    >
+      <span
+        className="MuiTypography-root MuiCardHeader-title MuiTypography-h4 MuiTypography-displayBlock"
+      >
+        Threat Details
+      </span>
+    </div>
+    <div
+      className="MuiCardHeader-action"
+    >
+      <div>
+        <button
+          className="MuiButtonBase-root MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <div>
+              <span
+                aria-hidden={true}
+                className="material-icons MuiIcon-root"
+                style={
+                  Object {
+                    "color": undefined,
+                  }
+                }
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </span>
+            </div>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root MuiDivider-middle MuiDivider-light"
+  />
+  <div
+    className="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root makeStyles-margin-5 makeStyles-subject-4 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          #12345
+          : Subject
+        </h6>
+        <div>
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label makeStyles-buttonLabel-10"
+            >
+              <span
+                className="MuiTypography-root makeStyles-buttonLabel-10 MuiTypography-caption"
+              >
+                View Source
+              </span>
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-details-7 MuiGrid-container MuiGrid-spacing-xs-3"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Domain
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+          >
+            Do not trust
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            From
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+          >
+            Akshay.sunder@gmail.com
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Description
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+            style={
+              Object {
+                "width": "378px",
+              }
+            }
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Treat type
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+          >
+            Spam
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Treat level
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+          >
+            High
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Trust score
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+          >
+            22
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Source date time
+          </span>
+          <p
+            className="MuiTypography-root makeStyles-contentStyle-6 MuiTypography-body1"
+          >
+            14-12-2019, 12:43pm
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item"
+        >
+          <span
+            className="MuiTypography-root makeStyles-margin-5 MuiTypography-button"
+          >
+            Group
+          </span>
+          <div
+            className={null}
+          >
+            <div
+              className="MuiFormControl-root Dropdown-formControl-11 makeStyles-dropDown-9"
+            >
+              <div
+                className="MuiInputBase-root MuiOutlinedInput-root Dropdown-dropdown-13 MuiInputBase-formControl"
+                onClick={[Function]}
+              >
+                <div
+                  aria-haspopup="listbox"
+                  aria-labelledby="simple-select-label simple-select"
+                  className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                  id="simple-select"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onMouseDown={[Function]}
+                  role="button"
+                  tabIndex={0}
+                >
+                  Do not trust
+                </div>
+                <input
+                  aria-hidden={true}
+                  className="MuiSelect-nativeInput"
+                  onAnimationStart={[Function]}
+                  onChange={[Function]}
+                  required={false}
+                  tabIndex={-1}
+                  value="Do not trust"
+                />
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+                <fieldset
+                  aria-hidden={true}
+                  className="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                  style={
+                    Object {
+                      "paddingLeft": 8,
+                    }
+                  }
+                >
+                  <legend
+                    className="PrivateNotchedOutline-legend-15"
+                    style={
+                      Object {
+                        "width": 0.01,
+                      }
+                    }
+                  >
+                    <span
+                      dangerouslySetInnerHTML={
+                        Object {
+                          "__html": "&#8203;",
+                        }
+                      }
+                    />
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1609737178404" clover="3.2.0">
+  <project timestamp="1609737178405" name="All files">
+    <metrics statements="860" coveredstatements="664" conditionals="259" coveredconditionals="178" methods="311" coveredmethods="217" elements="1430" coveredelements="1059" complexity="0" loc="860" ncloc="860" packages="45" files="59" classes="59"/>
+    <package name="src">
+      <metrics statements="17" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="2"/>
+      <file name="App.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/App.js">
+        <metrics statements="16" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="2"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+      </file>
+      <file name="GoogleAuthcred.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/GoogleAuthcred.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Avatar">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="AvatarAtom.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/Avatar/AvatarAtom.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="46" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Button">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ButtonAtom.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/Button/ButtonAtom.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="21" type="stmt"/>
+        <line num="26" count="313" type="stmt"/>
+        <line num="27" count="313" type="stmt"/>
+        <line num="47" count="21" type="stmt"/>
+        <line num="52" count="21" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Chip">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Chip.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/Chip/Chip.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="36" count="7" type="stmt"/>
+        <line num="43" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Icon">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="IconAtom.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/Icon/IconAtom.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.IconButton">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="IconButtonAtom.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/IconButton/IconButtonAtom.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="91" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.IconWithBadge">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="IconWithBadge.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/IconWithBadge/IconWithBadge.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="86" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Process">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Processing.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/Process/Processing.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Processing">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Processing.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/Processing/Processing.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.TextInput">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="TextInput.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/TextInput/TextInput.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.shared">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="ListIcons.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/atoms/shared/ListIcons.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="13" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.AppBanner">
+      <metrics statements="11" coveredstatements="10" conditionals="28" coveredconditionals="28" methods="5" coveredmethods="4"/>
+      <file name="AppBanner.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/AppBanner/AppBanner.js">
+        <metrics statements="11" coveredstatements="10" conditionals="28" coveredconditionals="28" methods="5" coveredmethods="4"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="32" count="7" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.AreaGraph">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="AreaGraph.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/AreaGraph/AreaGraph.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="35" count="9" type="stmt"/>
+        <line num="74" count="4" type="stmt"/>
+        <line num="100" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.BarGraph">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="BarGraph.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/BarGraph/BarGraph.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="15" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="86" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.CollabCard">
+      <metrics statements="15" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="3"/>
+      <file name="CollabCard.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/CollabCard/CollabCard.js">
+        <metrics statements="15" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="3"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="66" count="8" type="stmt"/>
+        <line num="67" count="8" type="stmt"/>
+        <line num="68" count="8" type="stmt"/>
+        <line num="70" count="8" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="8" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="78" count="8" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="81" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="84" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="85" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.DataGrid">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="DataGrid.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/DataGrid/DataGrid.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.DeleteButton">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="DeleteButton.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/DeleteButton/DeleteButton.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Department">
+      <metrics statements="17" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="9" coveredmethods="7"/>
+      <file name="DepartmentsAdd.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/Department/DepartmentsAdd.js">
+        <metrics statements="17" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="9" coveredmethods="7"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="196" count="50" type="stmt"/>
+        <line num="197" count="50" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="201" count="50" type="stmt"/>
+        <line num="202" count="1" type="stmt"/>
+        <line num="205" count="50" type="stmt"/>
+        <line num="210" count="50" type="stmt"/>
+        <line num="211" count="50" type="stmt"/>
+        <line num="212" count="50" type="stmt"/>
+        <line num="214" count="50" type="stmt"/>
+        <line num="215" count="0" type="stmt"/>
+        <line num="217" count="50" type="stmt"/>
+        <line num="218" count="1" type="stmt"/>
+        <line num="224" count="50" type="stmt"/>
+        <line num="246" count="2" type="stmt"/>
+        <line num="261" count="150" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Dropdown">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="Dropdown.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/Dropdown/Dropdown.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="40" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="40" type="stmt"/>
+        <line num="35" count="56" type="stmt"/>
+        <line num="45" count="8" type="stmt"/>
+        <line num="59" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.GraphCard">
+      <metrics statements="4" coveredstatements="4" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <file name="GraphCard.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/GraphCard/GraphCard.js">
+        <metrics statements="4" coveredstatements="4" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="43" count="17" type="stmt"/>
+        <line num="44" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.SideNavigationBar">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <file name="SideNavigationBar.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/molecules/SideNavigationBar/SideNavigationBar.js">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="38" type="stmt"/>
+        <line num="45" count="38" type="stmt"/>
+        <line num="47" count="152" type="stmt"/>
+        <line num="48" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="54" count="38" type="stmt"/>
+        <line num="61" count="152" type="stmt"/>
+        <line num="81" count="5" type="stmt"/>
+        <line num="85" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.AccessGrid">
+      <metrics statements="76" coveredstatements="35" conditionals="4" coveredconditionals="1" methods="27" coveredmethods="9"/>
+      <file name="AccessGrid.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/AccessGrid/AccessGrid.js">
+        <metrics statements="76" coveredstatements="35" conditionals="4" coveredconditionals="1" methods="27" coveredmethods="9"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="46" count="47" type="stmt"/>
+        <line num="47" count="47" type="stmt"/>
+        <line num="48" count="47" type="stmt"/>
+        <line num="50" count="47" type="stmt"/>
+        <line num="52" count="47" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="57" count="47" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="88" count="47" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="99" count="47" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="107" count="47" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="117" count="47" type="stmt"/>
+        <line num="118" count="15" type="stmt"/>
+        <line num="119" count="15" type="stmt"/>
+        <line num="123" count="13" type="stmt"/>
+        <line num="124" count="4" type="stmt"/>
+        <line num="126" count="9" type="stmt"/>
+        <line num="130" count="47" type="stmt"/>
+        <line num="131" count="15" type="stmt"/>
+        <line num="134" count="47" type="stmt"/>
+        <line num="135" count="10" type="stmt"/>
+        <line num="138" count="47" type="stmt"/>
+        <line num="139" count="10" type="stmt"/>
+        <line num="140" count="8" type="stmt"/>
+        <line num="141" count="8" type="stmt"/>
+        <line num="142" count="8" type="stmt"/>
+        <line num="146" count="47" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="163" count="47" type="stmt"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="168" count="47" type="stmt"/>
+        <line num="169" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="174" count="47" type="stmt"/>
+        <line num="191" count="1" type="stmt"/>
+        <line num="196" count="0" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+        <line num="265" count="3" type="stmt"/>
+        <line num="271" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.ChipDropdown">
+      <metrics statements="16" coveredstatements="11" conditionals="10" coveredconditionals="3" methods="7" coveredmethods="4"/>
+      <file name="ChipDropdown.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/ChipDropdown/ChipDropdown.js">
+        <metrics statements="16" coveredstatements="11" conditionals="10" coveredconditionals="3" methods="7" coveredmethods="4"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="38" count="6" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="51" count="5" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="57" count="5" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="104" count="6" type="stmt"/>
+        <line num="108" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.CollabModal">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="CollabModal.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/CollabModal/CollabModal.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.DomainGrid">
+      <metrics statements="77" coveredstatements="40" conditionals="14" coveredconditionals="5" methods="24" coveredmethods="10"/>
+      <file name="DomainGrid.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/DomainGrid/DomainGrid.js">
+        <metrics statements="77" coveredstatements="40" conditionals="14" coveredconditionals="5" methods="24" coveredmethods="10"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="59" count="44" type="stmt"/>
+        <line num="60" count="44" type="stmt"/>
+        <line num="61" count="44" type="stmt"/>
+        <line num="63" count="44" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="68" count="44" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="76" count="44" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="98" count="44" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="101" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="131" count="44" type="stmt"/>
+        <line num="132" count="20" type="cond" truecount="1" falsecount="1"/>
+        <line num="133" count="20" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="152" count="44" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="154" count="1" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="163" count="44" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+        <line num="168" count="44" type="stmt"/>
+        <line num="169" count="13" type="stmt"/>
+        <line num="170" count="10" type="stmt"/>
+        <line num="171" count="10" type="stmt"/>
+        <line num="172" count="10" type="stmt"/>
+        <line num="177" count="44" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="181" count="0" type="stmt"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="186" count="44" type="stmt"/>
+        <line num="187" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="202" count="0" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="206" count="0" type="stmt"/>
+        <line num="207" count="0" type="stmt"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="214" count="44" type="stmt"/>
+        <line num="215" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="216" count="1" type="stmt"/>
+        <line num="217" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="218" count="0" type="stmt"/>
+        <line num="221" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="222" count="0" type="stmt"/>
+        <line num="224" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="225" count="0" type="stmt"/>
+        <line num="227" count="1" type="stmt"/>
+        <line num="231" count="44" type="stmt"/>
+        <line num="233" count="44" type="stmt"/>
+        <line num="264" count="0" type="stmt"/>
+        <line num="309" count="4" type="stmt"/>
+        <line num="310" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Insights">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Insights.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/Insights/Insights.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="36" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.RelationshipCard">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="RelationshipCard.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/RelationshipCard/RelationshipCard.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="80" count="22" type="stmt"/>
+        <line num="89" count="4" type="stmt"/>
+        <line num="93" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.RelationshipGrid">
+      <metrics statements="59" coveredstatements="37" conditionals="12" coveredconditionals="6" methods="22" coveredmethods="11"/>
+      <file name="RelationshipGrid.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/RelationshipGrid/RelationshipGrid.js">
+        <metrics statements="59" coveredstatements="37" conditionals="12" coveredconditionals="6" methods="22" coveredmethods="11"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="62" count="107" type="stmt"/>
+        <line num="63" count="107" type="stmt"/>
+        <line num="65" count="150" type="stmt"/>
+        <line num="66" count="107" type="stmt"/>
+        <line num="68" count="107" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="73" count="107" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="81" count="107" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="109" count="107" type="stmt"/>
+        <line num="110" count="63" type="cond" truecount="1" falsecount="1"/>
+        <line num="111" count="63" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="127" count="1" type="stmt"/>
+        <line num="130" count="107" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="144" count="0" type="stmt"/>
+        <line num="148" count="107" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="150" count="1" type="stmt"/>
+        <line num="153" count="107" type="stmt"/>
+        <line num="154" count="43" type="stmt"/>
+        <line num="155" count="41" type="stmt"/>
+        <line num="156" count="41" type="stmt"/>
+        <line num="157" count="41" type="stmt"/>
+        <line num="162" count="107" type="stmt"/>
+        <line num="163" count="0" type="stmt"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="171" count="107" type="stmt"/>
+        <line num="172" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="173" count="1" type="stmt"/>
+        <line num="174" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="175" count="0" type="stmt"/>
+        <line num="178" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="181" count="1" type="stmt"/>
+        <line num="184" count="107" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="255" count="3" type="stmt"/>
+        <line num="256" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Table">
+      <metrics statements="74" coveredstatements="43" conditionals="46" coveredconditionals="21" methods="28" coveredmethods="16"/>
+      <file name="Table.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/Table/Table.js">
+        <metrics statements="74" coveredstatements="43" conditionals="46" coveredconditionals="21" methods="28" coveredmethods="16"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="22" type="cond" truecount="1" falsecount="1"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="78" count="22" type="cond" truecount="1" falsecount="1"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="81" count="22" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="22" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="11" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="93" count="22" type="stmt"/>
+        <line num="94" count="22" type="cond" truecount="1" falsecount="1"/>
+        <line num="95" count="22" type="stmt"/>
+        <line num="97" count="11" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="110" count="8" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="126" count="8" type="stmt"/>
+        <line num="150" count="1" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="162" count="1" type="stmt"/>
+        <line num="163" count="1" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+        <line num="166" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+        <line num="169" count="1" type="stmt"/>
+        <line num="170" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="171" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="172" count="0" type="stmt"/>
+        <line num="175" count="1" type="stmt"/>
+        <line num="176" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="177" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="183" count="0" type="stmt"/>
+        <line num="186" count="1" type="stmt"/>
+        <line num="187" count="0" type="stmt"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="190" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="192" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="193" count="0" type="stmt"/>
+        <line num="194" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="196" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="197" count="0" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="207" count="1" type="stmt"/>
+        <line num="208" count="0" type="stmt"/>
+        <line num="211" count="1" type="stmt"/>
+        <line num="212" count="0" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="216" count="10" type="stmt"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="219" count="10" type="stmt"/>
+        <line num="221" count="1" type="stmt"/>
+        <line num="223" count="1" type="stmt"/>
+        <line num="247" count="10" type="stmt"/>
+        <line num="248" count="10" type="stmt"/>
+        <line num="250" count="10" type="stmt"/>
+        <line num="262" count="0" type="stmt"/>
+        <line num="340" count="1" type="stmt"/>
+        <line num="346" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Topbar">
+      <metrics statements="18" coveredstatements="11" conditionals="10" coveredconditionals="3" methods="7" coveredmethods="4"/>
+      <file name="Topbar.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/organisms/Topbar/Topbar.js">
+        <metrics statements="18" coveredstatements="11" conditionals="10" coveredconditionals="3" methods="7" coveredmethods="4"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="41" count="43" type="stmt"/>
+        <line num="43" count="43" type="stmt"/>
+        <line num="44" count="43" type="stmt"/>
+        <line num="45" count="43" type="stmt"/>
+        <line num="46" count="43" type="stmt"/>
+        <line num="47" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="53" count="43" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="64" count="43" type="stmt"/>
+        <line num="123" count="2" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.AccessPanel">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="AccessPanel.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/AccessPanel/AccessPanel.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="33" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.Dashboard">
+      <metrics statements="23" coveredstatements="18" conditionals="2" coveredconditionals="1" methods="13" coveredmethods="3"/>
+      <file name="Dashboard.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/Dashboard/Dashboard.js">
+        <metrics statements="23" coveredstatements="18" conditionals="2" coveredconditionals="1" methods="13" coveredmethods="3"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="55" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="73" count="3" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="141" count="2" type="stmt"/>
+        <line num="144" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.DetailsCard">
+      <metrics statements="12" coveredstatements="10" conditionals="12" coveredconditionals="9" methods="4" coveredmethods="2"/>
+      <file name="DetailsCard.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/DetailsCard/DetailsCard.js">
+        <metrics statements="12" coveredstatements="10" conditionals="12" coveredconditionals="9" methods="4" coveredmethods="2"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="205" count="1" type="stmt"/>
+        <line num="208" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.DialogTemplate">
+      <metrics statements="71" coveredstatements="59" conditionals="2" coveredconditionals="1" methods="26" coveredmethods="22"/>
+      <file name="AddNewDeptTemplate.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/DialogTemplate/AddNewDeptTemplate.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="12" count="54" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="54" type="stmt"/>
+        <line num="18" count="54" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="54" type="stmt"/>
+      </file>
+      <file name="AddNewRowTemplateDG.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/DialogTemplate/AddNewRowTemplateDG.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="7" type="stmt"/>
+      </file>
+      <file name="AddNewRowTemplateTG.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/DialogTemplate/AddNewRowTemplateTG.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="7" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="36" count="7" type="stmt"/>
+      </file>
+      <file name="AddNewTabTemplate.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/DialogTemplate/AddNewTabTemplate.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="10" count="49" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="49" type="stmt"/>
+        <line num="16" count="49" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="49" type="stmt"/>
+      </file>
+      <file name="CollabCardsDialogTemplate.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/DialogTemplate/CollabCardsDialogTemplate.js">
+        <metrics statements="31" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="6"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="39" count="6" type="stmt"/>
+        <line num="40" count="6" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+        <line num="58" count="5" type="stmt"/>
+        <line num="59" count="22" type="stmt"/>
+        <line num="61" count="22" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="76" count="22" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="79" count="22" type="stmt"/>
+        <line num="81" count="22" type="stmt"/>
+        <line num="82" count="10" type="stmt"/>
+        <line num="83" count="10" type="stmt"/>
+        <line num="84" count="2" type="stmt"/>
+        <line num="86" count="2" type="stmt"/>
+        <line num="89" count="22" type="stmt"/>
+        <line num="90" count="10" type="stmt"/>
+        <line num="93" count="22" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.LandingPageTemplate">
+      <metrics statements="1" coveredstatements="1" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="LandingPageTemplate.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/LandingPageTemplate/LandingPageTemplate.js">
+        <metrics statements="1" coveredstatements="1" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.Tabs">
+      <metrics statements="21" coveredstatements="21" conditionals="12" coveredconditionals="11" methods="10" coveredmethods="9"/>
+      <file name="Tabs.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/Tabs/Tabs.js">
+        <metrics statements="21" coveredstatements="21" conditionals="12" coveredconditionals="11" methods="10" coveredmethods="9"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="120" count="3" type="stmt"/>
+        <line num="132" count="44" type="stmt"/>
+        <line num="133" count="44" type="stmt"/>
+        <line num="134" count="44" type="stmt"/>
+        <line num="135" count="44" type="stmt"/>
+        <line num="137" count="44" type="stmt"/>
+        <line num="138" count="1" type="stmt"/>
+        <line num="141" count="44" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="145" count="44" type="stmt"/>
+        <line num="146" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="150" count="44" type="stmt"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="153" count="44" type="stmt"/>
+        <line num="158" count="183" type="stmt"/>
+        <line num="160" count="1" type="stmt"/>
+        <line num="194" count="178" type="stmt"/>
+        <line num="215" count="3" type="stmt"/>
+        <line num="221" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.templates.TabsCard">
+      <metrics statements="11" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="4"/>
+      <file name="TabsCard.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/components/templates/TabsCard/TabsCard.js">
+        <metrics statements="11" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="4"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="48" count="8" type="stmt"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.CommandCenter">
+      <metrics statements="70" coveredstatements="62" conditionals="6" coveredconditionals="5" methods="21" coveredmethods="19"/>
+      <file name="CommandCenter.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/pages/CommandCenter/CommandCenter.js">
+        <metrics statements="70" coveredstatements="62" conditionals="6" coveredconditionals="5" methods="21" coveredmethods="19"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="33" type="stmt"/>
+        <line num="19" count="33" type="stmt"/>
+        <line num="20" count="33" type="stmt"/>
+        <line num="21" count="33" type="stmt"/>
+        <line num="22" count="33" type="stmt"/>
+        <line num="24" count="33" type="stmt"/>
+        <line num="27" count="33" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="33" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="41" count="33" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="61" count="33" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="64" count="4" type="stmt"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="72" count="33" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="74" count="4" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+        <line num="76" count="16" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="82" count="33" type="stmt"/>
+        <line num="83" count="9" type="stmt"/>
+        <line num="84" count="9" type="stmt"/>
+        <line num="88" count="9" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="94" count="33" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="108" count="33" type="stmt"/>
+        <line num="109" count="4" type="stmt"/>
+        <line num="110" count="4" type="stmt"/>
+        <line num="113" count="33" type="stmt"/>
+        <line num="114" count="9" type="stmt"/>
+        <line num="117" count="33" type="stmt"/>
+        <line num="118" count="2" type="stmt"/>
+        <line num="125" count="1" type="stmt"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="129" count="1" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="135" count="33" type="stmt"/>
+        <line num="147" count="164" type="cond" truecount="2" falsecount="0"/>
+        <line num="148" count="33" type="stmt"/>
+        <line num="160" count="131" type="cond" truecount="2" falsecount="0"/>
+        <line num="161" count="33" type="stmt"/>
+        <line num="175" count="98" type="stmt"/>
+        <line num="180" count="98" type="stmt"/>
+        <line num="194" count="2" type="stmt"/>
+        <line num="195" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.LandingPage">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="LandingPage.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/pages/LandingPage/LandingPage.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.LoginPage">
+      <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="5" methods="4" coveredmethods="3"/>
+      <file name="LoginPage.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/pages/LoginPage/LoginPage.js">
+        <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="5" methods="4" coveredmethods="3"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="61" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.redux">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constants.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/redux/constants.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+      <file name="store.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/redux/store.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux.actions">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="userActions.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/redux/actions/userActions.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux.reducers">
+      <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="userReducer.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/redux/reducers/userReducer.js">
+        <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="8" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="9" count="8" type="cond" truecount="3" falsecount="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="37" coveredstatements="33" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="14"/>
+      <file name="CollaboratorService.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/services/CollaboratorService.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="DepartmentService.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/services/DepartmentService.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="DomainService.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/services/DomainService.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+      <file name="GoogleSuiteService.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/services/GoogleSuiteService.js">
+        <metrics statements="6" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="3" count="11" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="RelationshipService.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/services/RelationshipService.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="TrustGroupService.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/services/TrustGroupService.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="109" coveredstatements="108" conditionals="34" coveredconditionals="28" methods="23" coveredmethods="23"/>
+      <file name="Strings.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/utils/Strings.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="18" count="17" type="stmt"/>
+        <line num="24" count="17" type="stmt"/>
+        <line num="29" count="17" type="stmt"/>
+        <line num="30" count="17" type="stmt"/>
+        <line num="31" count="17" type="stmt"/>
+        <line num="32" count="17" type="stmt"/>
+        <line num="33" count="17" type="stmt"/>
+        <line num="34" count="17" type="stmt"/>
+        <line num="35" count="17" type="stmt"/>
+        <line num="37" count="17" type="stmt"/>
+        <line num="38" count="17" type="stmt"/>
+        <line num="39" count="17" type="stmt"/>
+      </file>
+      <file name="dashboardMockData.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/utils/dashboardMockData.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="117" count="3" type="stmt"/>
+        <line num="145" count="3" type="stmt"/>
+        <line num="175" count="3" type="stmt"/>
+      </file>
+      <file name="helper.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/utils/helper.js">
+        <metrics statements="83" coveredstatements="82" conditionals="34" coveredconditionals="28" methods="22" coveredmethods="22"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="36" count="41" type="stmt"/>
+        <line num="38" count="14" type="stmt"/>
+        <line num="39" count="41" type="stmt"/>
+        <line num="40" count="40" type="stmt"/>
+        <line num="41" count="40" type="stmt"/>
+        <line num="42" count="40" type="stmt"/>
+        <line num="43" count="40" type="stmt"/>
+        <line num="44" count="40" type="stmt"/>
+        <line num="47" count="13" type="stmt"/>
+        <line num="48" count="12" type="stmt"/>
+        <line num="49" count="16" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="51" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="69" count="4" type="stmt"/>
+        <line num="71" count="5" type="stmt"/>
+        <line num="74" count="6" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+        <line num="76" count="4" type="stmt"/>
+        <line num="77" count="4" type="stmt"/>
+        <line num="79" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="82" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="88" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="92" count="4" type="stmt"/>
+        <line num="95" count="6" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="99" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="101" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="103" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="111" count="6" type="stmt"/>
+        <line num="112" count="3" type="stmt"/>
+        <line num="113" count="6" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="116" count="3" type="stmt"/>
+        <line num="119" count="6" type="stmt"/>
+        <line num="120" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="121" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="130" count="6" type="stmt"/>
+        <line num="131" count="3" type="stmt"/>
+        <line num="132" count="3" type="stmt"/>
+        <line num="133" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="135" count="3" type="stmt"/>
+      </file>
+      <file name="sideNavIconGetter.js" path="/home/bhavya/Documents/bootcamp-11/bc11-frontend/src/utils/sideNavIconGetter.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="13" count="38" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
